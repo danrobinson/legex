@@ -1,0 +1,64 @@
+F\. (?:[23]d\.)?
+U\. S\.
+S\. Ct\.
+L\. Ed\.(?: 2d\.)?
+F(?:ed)?\. App'?x.
+F\. Cas\.
+F(?:ed)?\. Supp\.(?: 2d\.)?
+So\. (?:[23]d)?
+P\. (?:[23]d)?
+S\. W\. (?:[23]d)?
+A\. (?:2d)?
+S\. E\. (?:2d)?
+N\. E\. (?:2d)?
+N\. W\. (?:2d)?
+Ala\. (?:App\.)?
+Alaska
+Ariz\. (?:App\.)?
+Ark\. (?:App\.)?
+Cal\. (?:(?:Rptr\. (?:[23]d)?)|(?:App\. (?:[23]d|4th))|(?:[23]d|4th))?
+Colo\. (?:App\.)?
+Conn\. (?:App\.)?
+Del\. (?:Ch\.)?
+Fla\.
+Ga\. (?:App\.)?
+Haw\. (?:App\.)?
+Idaho
+Ill\. (?:(?:2d)|(?:App\. (?:[23]d)?))?
+Ind\. (?:App\.)?
+Kan\. (?:App\. (?:2d)?)?
+Ky\. (?:App\.)?
+La\. (?:App\.)?
+Me\.
+Md\. (?:App\.)?
+Mass\. (?:(?:App\. (?:Ct\.|Div\.))|Supp\.)?
+Mich\. (?:App\.)?
+Minn\.
+Miss\.
+Mo\. (?:App\.)?
+Mont\.
+Neb\. (?:App\.)?
+Nev\.
+N\. H\.
+N\. J\. (?:L?\.|Super\.)?
+N\. M\.
+N\. Y\. S?\. (?:2d)?
+N\. C\. (?:App\.)?
+N\. D\.
+Ohio (St\. (?:[23]d)?|App\. (?:[23]d)?)?
+Okla\.
+Or\. (?:App\.)?
+Pa\. (Super\.)?
+R\. I\.
+S\. C\.
+S\. D\.
+Tenn\. (?:App\.)?
+Tex\.
+Utah (?:2d)?
+Vt\.
+Va\. (?:App\.|Cir\.)?
+Wash\. (?:2d|App\.)?
+W\. Va\.
+Wis\. (?:2d)?
+Wyo\.
+
